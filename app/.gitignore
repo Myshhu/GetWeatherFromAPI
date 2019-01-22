@@ -1,0 +1,7 @@
+/build
+.idea
+*.png
+production/
+*iml
+*.class
+src/META-INF/MANIFEST.MF
